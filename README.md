@@ -1,4 +1,5 @@
-
+# Project Deprecated
+There are a few fundamental issues with ghost cursor that make cross compatability with playwright difficult. We wrote a new library called [human-cursor](https://github.com/CloverLabsAI/human-cursor) which is optimized for Playwright and uses a more natural algorithm for mouse movements.
 
 ### ALL CREDIT GOES TO THE ORIGINAL GHOST-CRUSOR AUTHOR. This project is a direct fork and would not exist without Xterra.
 This repository is updated and maintained by the TryRedRover[dot]com team.
